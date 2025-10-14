@@ -24,7 +24,7 @@ Statut de déploiement sur le Web :
 - [🚀 Installation](#-installation)
 - [🛠️ Technologies utilisées](#-technologies-utilisées)
 - [🧪 Développement Flutter](#-développement-flutter)
-- [🤝 Contribution](#-contribution)
+<!-- - [🤝 Contribution](#-contribution) -->
 - [📄 Licence](#-licence)
 - [📬 Contact](#-contact)
 
