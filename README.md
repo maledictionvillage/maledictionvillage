@@ -5,8 +5,7 @@
 ![Logo de LMDV](https://maledictionvillage.netlify.app/icons/android-chrome-192x192.png)
 
 ![Statut du déploiement](https://img.shields.io/badge/statut-en%20développement-4a637d?style=for-the-badge)
-![Plateformes](https://img.shields.io/badge/plateformes-Android%20%7C%20Web%20%7C%20Windows-1b3b2f?style=for-the-badge)
-![Licence](https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-a68a00?style=for-the-badge)
+![Plateformes](https://img.shields.io/badge/plateformes-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows-1b3b2f?style=for-the-badge)
 
 Statut de déploiement sur le Web : 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/489947e4-c413-40af-abfe-5bb9d20b9238/deploy-status?style=for-the-badge)](https://app.netlify.com/projects/maledictionvillage/deploys?style=for-the-badge)
