@@ -194,7 +194,7 @@ Voir les détails : [https://creativecommons.org/licenses/by-nc-nd/4.0/](https:/
 Pour toute question ou suggestion :
 
 - 🌐 Site : [https://maledictionvillage.netlify.app](https://maledictionvillage.netlify.app)
-- 📧 Email : [malediction.village@gmail.com](mailto:malediction.village@gmail.com)
+- 📧 Email : [malediction.village@gmail.com](mailto:malediction.village@gmail.com?subject=Contacter%20la%20Malédiction%20du%20Village%20depuis%20Github.com)
 - 💬 Serveur Discord (à venir)
 
 ---
