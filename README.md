@@ -5,7 +5,7 @@
 ![Logo de LMDV](https://maledictionvillage.netlify.app/icons/android-chrome-192x192.png)
 
 ![Statut du déploiement](https://img.shields.io/badge/statut-en%20développement-4a637d?style=for-the-badge)
-![Plateformes](https://img.shields.io/badge/plateformes-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows-1b3b2f?style=for-the-badge)
+![Plateformes](https://img.shields.io/badge/plateformes-Android%20%7C%20iOS%20%7C%20Web-1b3b2f?style=for-the-badge)
 
 ---
 
