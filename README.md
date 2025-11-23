@@ -65,5 +65,6 @@ Reste connecté… la malédiction n’attend que toi.
 
 ## 📬 Où nous trouver ?
 
-- 🌐 Site : [https://maledictionvillage.netlify.app](https://maledictionvillage.netlify.app?utm-source=github.com&utm-medium=maledictionvillage-readme)
+- 🌐 Site : <a href="https://maledictionvillage.netlify.app?utm-source=github.com&utm-medium=maledictionvillage-readme" target="_blank">https://maledictionvillage.netlify.app</a>
+
 - 📧 Email : [malediction.village@gmail.com](mailto:malediction.village@gmail.com)
