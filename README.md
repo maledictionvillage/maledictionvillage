@@ -28,7 +28,7 @@
 
 ## 📖 Présentation
 
-**La Malédiction du Village** (LMDV) est un jeu de rôle multijoueur inspiré des *Loups-Garous de Thiercelieux*, dans lequel chaque joueur incarne secrètement un personnage dans un village mystérieux victime d'une malédiction. Bluff, stratégie, alliances, trahisons… Survivrez-vous jusqu'à la fin ?
+**La Malédiction du Village** est un jeu de rôle multijoueur dans lequel chaque joueur incarne secrètement un personnage dans un village mystérieux victime d'une malédiction. Bluff, stratégie, alliances, trahisons… Survivrez-vous jusqu'à la fin ?
 
 [Liste des choses à faire](PROJECT.md)
 
