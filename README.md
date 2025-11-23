@@ -55,9 +55,9 @@ Une identité sombre, élégante et mystérieuse :
 
 ## 🚀 Bientôt disponible
 
-- 📱 **Android** — version APK en approche
+- 📱 **Android** — bientôt disponible sur le Play Store
 - 🌐 **Web** — jouable directement dans ton navigateur
-- 📱 **iOS** — prévu plus tard
+<!--   - 📱 **iOS** — prévu plus tard -->
 
 Reste connecté… la malédiction n’attend que toi.
 
