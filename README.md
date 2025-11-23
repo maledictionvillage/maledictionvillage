@@ -1,6 +1,6 @@
 # 🐺 La Malédiction du Village
 
-**Un village, des secrets… et une malédiction qui plane au-dessus de chaque décision.**
+**Un village, des secrets… et une malédiction**
 
 Bienvenue dans un village frappé par une malédiction, où chacun incarne secrètement un rôle et où la confiance est fragile, les alliances dangereuses et chaque mot peut être le dernier. Ici, personne ne sait qui ment… mais tout le monde tente de survivre. Bluff, stratégie, trahisons : survivrez-vous jusqu’à la fin ?
 
