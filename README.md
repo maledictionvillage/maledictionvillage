@@ -2,6 +2,8 @@
 
 **Un village, des secrets… et une malédiction**
 
+<strong>[https://skyletters.netlify.app/](https://skyletters.netlify.app?utm_source=github.com&utm_medium=maledictionvillage%252Fmaledictionvillage%252FREADME.md&utm_content=direct-link)</strong>
+
 Bienvenue dans un village frappé par une malédiction, où chacun incarne secrètement un rôle et où la confiance est fragile, les alliances dangereuses et chaque mot peut être le dernier. Ici, personne ne sait qui ment… mais tout le monde tente de survivre. Bluff, stratégie, trahisons : survivrez-vous jusqu’à la fin ?
 
 ---
